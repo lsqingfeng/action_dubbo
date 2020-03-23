@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/action.iml" filepath="$PROJECT_DIR$/action.iml" />
+      <module fileurl="file://$PROJECT_DIR$/action-biz/action-biz.iml" filepath="$PROJECT_DIR$/action-biz/action-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/action-common/action-common.iml" filepath="$PROJECT_DIR$/action-common/action-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/action-core/action-core.iml" filepath="$PROJECT_DIR$/action-core/action-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/action-dubbo-api/action-dubbo-api.iml" filepath="$PROJECT_DIR$/action-dubbo-api/action-dubbo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/action-dubbo-consumer/action-dubbo-consumer.iml" filepath="$PROJECT_DIR$/action-dubbo-consumer/action-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/action-dubbo-provider/action-dubbo-provider.iml" filepath="$PROJECT_DIR$/action-dubbo-provider/action-dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/action-generator/action-generator.iml" filepath="$PROJECT_DIR$/action-generator/action-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/action-knowledge/action-knowledge.iml" filepath="$PROJECT_DIR$/action-knowledge/action-knowledge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/action-parent/action-parent.iml" filepath="$PROJECT_DIR$/action-parent/action-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/action-web/action-web.iml" filepath="$PROJECT_DIR$/action-web/action-web.iml" />
+    </modules>
+  </component>
+</project>

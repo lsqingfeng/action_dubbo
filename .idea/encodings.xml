@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/action-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/action-biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/action-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/action-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/action-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/action-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/action-dubbo-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/action-dubbo-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/action-dubbo-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/action-dubbo-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/action-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/action-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/action-knowledge/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/action-knowledge/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/action-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/action-web/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

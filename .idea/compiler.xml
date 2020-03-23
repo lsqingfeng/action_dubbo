@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="action-knowledge" />
+        <module name="action-generator" />
+        <module name="action-dubbo-consumer" />
+        <module name="action-core" />
+        <module name="action-dubbo-api" />
+        <module name="action-biz" />
+        <module name="action-dubbo-provider" />
+        <module name="action-common" />
+        <module name="action-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="action" target="1.8" />
+      <module name="action-biz" target="1.8" />
+      <module name="action-common" target="1.8" />
+      <module name="action-core" target="1.8" />
+      <module name="action-dubbo-api" target="1.8" />
+      <module name="action-dubbo-consumer" target="1.8" />
+      <module name="action-dubbo-provider" target="1.8" />
+      <module name="action-generator" target="1.8" />
+      <module name="action-knowledge" target="1.8" />
+      <module name="action-parent" target="1.5" />
+      <module name="action-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="action" options="" />
+      <module name="action-biz" options="" />
+      <module name="action-common" options="" />
+      <module name="action-core" options="" />
+      <module name="action-dubbo-api" options="" />
+      <module name="action-dubbo-consumer" options="" />
+      <module name="action-dubbo-provider" options="" />
+      <module name="action-generator" options="" />
+      <module name="action-knowledge" options="-parameters" />
+      <module name="action-parent" options="-parameters" />
+      <module name="action-web" options="" />
+    </option>
+  </component>
+</project>
