@@ -20,7 +20,7 @@
 
         <lombok.version>1.18.8</lombok.version>
         <mybatis-plus.version>3.3.1.tmp</mybatis-plus.version>
-        <mysql.connector.version>8.0.17</mysql.connector.version>
+        <mysql.connector.version>8.0.28</mysql.connector.version>
         <nacos.version>0.2.1</nacos.version>
         <dubbo.version>2.7.5</dubbo.version>
         <nacos-clent.version>1.2.0</nacos-clent.version>
